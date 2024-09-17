@@ -10,7 +10,10 @@ Estou mergulhado no desenvolvimento front-end, criando interfaces web intuitivas
 - **JavaScript** (Ainda estudando sobre)
 
 ### Projetos:
-- **[Projeto 1](https://github.com/C3miel/Desafio-EscolaDNC.git)**: [Projeto para uma empresa de arquitetura, onde o possível cliente pode inserir seus dados para contato, e os mesmos são enviados para uma planilha, integrada ao Sheet Monkey].
+- **[WebSite-Arquitetura](https://github.com/C3miel/Desafio-EscolaDNC.git)**: [Projeto para uma empresa de arquitetura, onde o possível cliente pode inserir seus dados para contato, e os mesmos são enviados para uma planilha, integrada ao Sheet Monkey].
+
+- **[Landing-Page](https://github.com/C3miel/Projeto-Landing-Page.git)**: [Projeto de uma Landing Page para captura de leads].
+
 
 
 

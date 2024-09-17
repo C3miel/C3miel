@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @C3miel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Olá! Eu sou Cemiel 👋
 
-<!---
-C3miel/C3miel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Desenvolvedor Front-End apaixonado por tecnologia e automóveis 🚀
+
+Estou mergulhado no desenvolvimento front-end, criando interfaces web intuitivas e responsivas. Adoro aprender novas ferramentas e explorar as últimas tendências em tecnologia.
+
+### Tecnologias e Linguagens que Conheço:
+- **HTML**
+- **CSS**
+- **JavaScript** (Ainda estudando sobre)
+
+### Projetos:
+- **[Projeto 1](https://github.com/C3miel/Desafio-EscolaDNC.git)**: [Projeto para uma empresa de arquitetura, onde o possível cliente pode inserir seus dados para contato, e os mesmos são enviados para uma planilha, integrada ao Sheet Monkey].
+
+
+
+Sempre aberto a:
+- Colaborações
+- Oportunidades de aprendizado e crescimento
+
+Vamos conversar e explorar novas possibilidades!
+
+[LinkedIn](https://l1nk.dev/Cemiel-Albuquerque) | [Email](cemiel.albuquerque2@gmail.com)

@@ -20,4 +20,4 @@ Sempre aberto a:
 
 Vamos conversar e explorar novas possibilidades!
 
-[LinkedIn](https://l1nk.dev/Cemiel-Albuquerque) | [Email](cemiel.albuquerque2@gmail.com)
+[LinkedIn](https://l1nk.dev/Cemiel-Albuquerque) | **Email** - cemiel.albuquerque2@gmail.com

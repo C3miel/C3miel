@@ -14,7 +14,7 @@ Estou mergulhado no desenvolvimento front-end, criando interfaces web intuitivas
 
 - **[Landing-Page](https://github.com/C3miel/Projeto-Landing-Page.git)**: [Projeto de uma Landing Page para captura de leads].
   
-- **[Portifolio-project].(https://github.com/C3miel/portifolio-project)**: [Este é um projeto básico de portfólio, com o objetivo de praticar e demonstrar conhecimentos iniciais em desenvolvimento web. Ele simula um site onde um(a) profissional pode apresentar informações sobre si, seus projetos e formas de contato.].
+- **[Portifolio-project](https://github.com/C3miel/portifolio-project)**: [Este é um projeto básico de portfólio, com o objetivo de praticar e demonstrar conhecimentos iniciais em desenvolvimento web. Ele simula um site onde um(a) profissional pode apresentar informações sobre si, seus projetos e formas de contato.].
 
 
 
